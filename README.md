@@ -3,22 +3,40 @@
 <!--
 **LySeriuos/LySeriuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 👋 Hi there! I'm Paulius  
+👋 Hi, I'm Paulius Drungilas!
+I'm a C# / .NET / Blazor Developer with a strong background in automation, logistics, and systems optimization — now fully focused on building practical, user-centered software solutions.
 
-🌱 **Aspiring Software Developer | Problem-Solver | Lifelong Learner**  
+Currently working on real-world applications using C#, .NET, Blazor, Entity Framework Core, and SQL technologies.
+I’m passionate about clean architecture, scalable design, and building apps that solve real problems.
 
-I’m on an exciting journey transitioning into software development, leveraging my problem-solving skills and adaptability from my previous role as a **Production Manager** in the fast-paced flower supply industry. Currently, I’m honing my programming skills through **Rakete’s mentoring program**, focusing on building innovative solutions and contributing to dynamic teams.  
+🔥 Projects I'm proud of
+MyHome – Blazor Smart Home Tracker
+Full-stack app for managing devices, warranties, QR code scanning, and smart home integration.
+➡️ View Project
 
-## 🔍 What I’m Looking For  
-I’m actively seeking an **open position as a Software Developer**, where I can apply my growing technical expertise, collaborate with great minds, and continuously evolve as a developer.  
+Quiz Maker – C# Console App
+Create and manage custom quizzes via console interface.
+➡️ View Project
 
-## 💡 A Bit About Me  
-- 🏃‍♂️ I’ve completed **marathons and ultramarathons**, proving my resilience and determination.  
-- ⚓ **Sailing & traveling** fuel my curiosity and love for adventure.  
-- 👨‍👦 Most importantly, I’m a **proud father**, inspired daily to grow, learn, and strive for excellence.  
+Slot Machine Game – C# Console App
+Console game practicing randomization, loops, and methods.
+➡️ View Project
 
-## 📫 Let’s Connect!  
-I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!  
+🛠 Tech Stack
+Languages: C#, SQL
 
-📩 **Email:** drungilas.p@gmail.com
-💼 **LinkedIn:** https://www.linkedin.com/in/paulius-drungilas-4875b180
+Frameworks: .NET, Blazor (Server/WebAssembly)
+
+Databases: SQLite, SQL Server
+
+Tools: Git, GitHub, Visual Studio, Entity Framework Core
+
+🚀 Goals
+Seeking developer roles in Copenhagen, Skåne region, or remote.
+
+Continuously building, learning, and improving my development craft.
+
+📫 Let's Connect
+LinkedIn: linkedin.com/in/paulius-drungilas-4875b180
+
+GitHub: github.com/LySeriuos
