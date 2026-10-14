@@ -3,40 +3,46 @@
 <!--
 **LySeriuos/LySeriuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-👋 Hi, I'm Paulius Drungilas!
-I'm a C# / .NET / Blazor Developer with a strong background in automation, logistics, and systems optimization — now fully focused on building practical, user-centered software solutions.
+# Paulius Drungilas
 
-Currently working on real-world applications using C#, .NET, Blazor, Entity Framework Core, and SQL technologies.
-I’m passionate about clean architecture, scalable design, and building apps that solve real problems.
+C# / .NET developer based in Malmö, Sweden.
 
-🔥 Projects I'm proud of
-MyHome – Blazor Smart Home Tracker
-Full-stack app for managing devices, warranties, QR code scanning, and smart home integration.
-➡️ View Project
+I build, deploy and maintain web applications using C#, .NET 8, ASP.NET Core, Blazor and Entity Framework Core. My operational background in production, logistics and automated warehouse environments has developed my ability to investigate problems, understand workflows and work systematically when systems affect daily operations.
 
-Quiz Maker – C# Console App
-Create and manage custom quizzes via console interface.
-➡️ View Project
+## Selected Project
 
-Slot Machine Game – C# Console App
-Console game practicing randomization, loops, and methods.
-➡️ View Project
+### MyHome
 
-🛠 Tech Stack
-Languages: C#, SQL
+MyHome is a live Blazor application created to solve a common problem: receipts, warranties, manuals and device information are often stored in different places or lost.
 
-Frameworks: .NET, Blazor (Server/WebAssembly)
+The application allows users to organize devices by property and quickly access relevant information. It includes user authentication and authorization, database persistence, QR-code functionality, document handling and email notifications.
 
-Databases: SQLite, SQL Server
+I built and actively maintain the application, including its deployment infrastructure. GitHub Actions and Docker are used to deploy changes to separate staging and production environments.
 
-Tools: Git, GitHub, Visual Studio, Entity Framework Core
+Live walkthrough: https://www.myhomemaster.org/walkThrough  
+Source code: https://github.com/LySeriuos/MyHome
 
-🚀 Goals
-Seeking developer roles in Copenhagen, Skåne region, or remote.
+## Team Development
 
-Continuously building, learning, and improving my development craft.
+Through the Rakete Mentoring program, I contribute to the development of Rocket Video, a .NET platform for video-based education.
 
-📫 Let's Connect
-LinkedIn: linkedin.com/in/paulius-drungilas-4875b180
+The project involves a team of 10–12 participants working with GitHub branches, pull requests, code reviews, issues and tests. My current assignment focuses on data modelling and access logic for individual overrides in scheduled course access.
 
-GitHub: github.com/LySeriuos
+## Technical Experience
+
+- C# and .NET 8
+- ASP.NET Core and Blazor
+- Entity Framework Core
+- SQL and SQLite
+- ASP.NET Core Identity
+- Git and GitHub
+- GitHub Actions and CI/CD
+- Docker and Linux deployment
+- Visual Studio
+- QR-code generation
+- MailKit and MimeKit
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/paulius-drungilas-4875b180  
+GitHub: https://github.com/LySeriuos
